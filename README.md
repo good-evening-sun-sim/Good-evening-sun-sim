@@ -1,5 +1,6 @@
-## Hi there 👋
-
+   <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=for-the-badge&label=Bobette&extraCount=64&color=392f30&labelColor=9f1313"/></a>
+ 
+[![db54ba28e153caa7223efaed1aacfbef.jpg](https://i.postimg.cc/FzSY4P9Q/db54ba28e153caa7223efaed1aacfbef.jpg)](https://postimg.cc/zHJzwFbd)
 <!--
 **good-evening-sun-sim/Good-evening-sun-sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
