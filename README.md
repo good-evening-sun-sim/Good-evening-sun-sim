@@ -4,12 +4,12 @@
    <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=plastic&label=Ume&extraCount=17777&color=cf627b&labelColor=e8e2c5"/></a>  <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=plastic&label=Cries&extraCount=12689&color=c3c0b0&labelColor=8e5e6c"/></a>
    
    <p align="center">
-   $\small\textcolor{pink}{\textsf{umamusume}}$
+   $\small\textcolor{pink}{\textsf{𝐮𝐦𝐚𝐦𝐮𝐬𝐮𝐦𝐞}}$
 
    [![966-sin-titulo-20251216010749.png](https://i.postimg.cc/vmcqzdCG/966-sin-titulo-20251216010749.png)](https://postimg.cc/0610kh84)
 
 <p align="Center">
-$\small\textcolor{pink}{\textsf{she /her or any pronouns}}$
+$\small\textcolor{pink}{\textsf{𝐬𝐡𝐞 / 𝐡𝐞𝐫 𝐨𝐫 𝐚𝐧𝐲 𝐩𝐫𝐨𝐧𝐨𝐮𝐧𝐬}}$
   
   <p align="center">
  <img height="100" width="30" src= "https://files.catbox.moe/n0acxu.gif">
