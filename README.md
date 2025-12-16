@@ -13,8 +13,9 @@ $\small\textcolor{pink}{\textsf{she /her or any pronouns}}$
   
   <p align="center">
  <img height="100" width="30" src= "https://files.catbox.moe/n0acxu.gif">
-<p align="left">
+<p align="center">
 <a href="https://goodeveningsunsim.atabook.org"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=C8ABB4&center=true&vCenter=true&width=200&height=30&lines=Atabook" alt="Typing SVG" /></a><p align="center">
 <a href="https://colormytree.me/2025/01KBC3VJXS9G5DN6S0MR8682WQ"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=C8ABB4&center=true&vCenter=true&width=200&height=30&lines=tree" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=C8ABB4&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 
    
