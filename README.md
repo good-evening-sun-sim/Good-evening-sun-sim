@@ -1,6 +1,6 @@
-   <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=for-the-badge&label=Bobette&extraCount=64&color=392f30&labelColor=9f1313"/></a>
- 
-[![db54ba28e153caa7223efaed1aacfbef.jpg](https://i.postimg.cc/FzSY4P9Q/db54ba28e153caa7223efaed1aacfbef.jpg)](https://postimg.cc/zHJzwFbd)
+   <img height="100" width="500" src= "https://files.catbox.moe/yrukzc.gif">
+
+   [![966-sin-titulo-20251216010749.png](https://i.postimg.cc/vmcqzdCG/966-sin-titulo-20251216010749.png)](https://postimg.cc/0610kh84)
 <!--
 **good-evening-sun-sim/Good-evening-sun-sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
