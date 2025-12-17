@@ -20,4 +20,10 @@ $\small\textcolor{pink}{\textsf{𝐬𝐡𝐞 / 𝐡𝐞𝐫 𝐨𝐫 𝐚𝐧�
 <p align="center">
    <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?label=Misery&extraCount=155596&color=eb7298&labelColor=c0c095"/></a>
 
+   <p align="center">
+  <a href="https://open.spotify.com/user/31epnla3s6kdp6ghhtszrqkhvblq?si=Bz6B1xRSRa-ecVnvgMU3mg">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31epnla3s6kdp6ghhtszrqkhvblq&cover_image=true&theme=novatorem&show_offline=false&background_color=5c2144&interchange=false&profanity=false&bar_color=cc7cb5&bar_color_cover=false">
+  </a>
+</p>
+
    
