@@ -15,7 +15,7 @@ $\small\textcolor{#CA4363}{\textsf{ abby}}$ $\small\textcolor{#D1AC80}{\textsf{o
    $\small\textcolor{#D1AC80}{\textsf{c*h}}$ $\small\textcolor{#CA4363}{\textsf{unless with}}$ $\small\textcolor{#D1AC80}{\textsf{friends/ boyfriend}}$
 
    <p align="center">
-   <img height="100" width="200" src= "https://files.catbox.moe/usecmk.gif">
+   <img height="100" width="200" src= "https://files.catbox.moe/xaetht.gif">
 
 <p align=center"
  <a href="https://goodeveningsunsim.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=CA4363&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a> 
