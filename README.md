@@ -16,7 +16,9 @@ $\small\textcolor{#CA4363}{\textsf{ abby}}$ $\small\textcolor{#D1AC80}{\textsf{o
 
 
 <p align="center">
- <a href="goodeveningsunsim.atabook.org"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=D1AC80&center=true&vCenter=true&width=200&height=30&lines=Ata" alt="Typing SVG" /></a>  <a href="https://goodeveningsunsim.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=CA4363&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+ <a href="https://goodeveningsunsim.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=CA4363&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+<p align="center">
+ <a href="goodeveningsunsim.atabook.org"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=D1AC80&center=true&vCenter=true&width=200&height=30&lines=Ata" alt="Typing SVG" /></a>
 
  
  <p align="center">
