@@ -9,7 +9,8 @@ $\small\textcolor{#CA4363}{\textsf{ abby}}$ $\small\textcolor{#D1AC80}{\textsf{o
  <img height="100" width="20" src= "https://files.catbox.moe/15uxmx.gif"> $\small\textcolor{#D1AC80}{\textsf{she / her or any pronouns}}$ <img height="100" width="20" src= "https://files.catbox.moe/15uxmx.gif">
 
    [![978-sin-titulo-20251220194829.png](https://i.postimg.cc/zf04Tn0n/978-sin-titulo-20251220194829.png)](https://postimg.cc/t1nrjV0T)
-
+<p align="center">
+   <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?style=plastic&label=Attack&extraCount=26661&color=ab2156&labelColor=b9a276"/></a>
    <p align="center">
    $\small\textcolor{#D1AC80}{\textsf{c*h}}$ $\small\textcolor{#CA4363}{\textsf{unless with}}$ $\small\textcolor{#D1AC80}{\textsf{friends/ boyfriend}}$
 
@@ -17,6 +18,7 @@ $\small\textcolor{#CA4363}{\textsf{ abby}}$ $\small\textcolor{#D1AC80}{\textsf{o
 <p align="center">
  <a href="goodeveningsunsim.atabook.org"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=D1AC80&center=true&vCenter=true&width=200&height=30&lines=Ata" alt="Typing SVG" /></a>  <a href="https://goodeveningsunsim.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=CA4363&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 
+ 
  <p align="center">
  <img height="100" width="200" src= "https://files.catbox.moe/xaetht.gif">
 
