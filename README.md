@@ -1,4 +1,6 @@
 <p align="center">
+<a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?label=Hugs&extraCount=2333&color=9d304a&labelColor=bcb079"/></a> <a href="https://hits.sh/github.com/good-evening-sun-sim/"><img alt="Hits" src="https://hits.sh/github.com/good-evening-sun-sim.svg?label=Tears&extraCount=2333&color=9d304a&labelColor=9d967a"/></a>
+<p align="center">
 $\small\textcolor{#CA4363}{\textsf{ abby}}$ $\small\textcolor{#D1AC80}{\textsf{or taffy⁠ }}$ 
 <p align="center">
 <img height="100" width="50" src= "https://files.catbox.moe/kjz6zc.png"> 
