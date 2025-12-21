@@ -1,4 +1,7 @@
+  <p align="center">
+<img height="100" width="50" src= "https://files.catbox.moe/kjz6zc.png"> 
 
+[![978-sin-titulo-20251220194829.png](https://i.postimg.cc/zf04Tn0n/978-sin-titulo-20251220194829.png)](https://postimg.cc/t1nrjV0T)
 
    <p align="center">
   <a href="https://open.spotify.com/user/31epnla3s6kdp6ghhtszrqkhvblq?si=Bz6B1xRSRa-ecVnvgMU3mg">
