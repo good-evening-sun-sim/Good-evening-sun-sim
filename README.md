@@ -1,8 +1,8 @@
 <p align="center">
-$\small\textcolor{red}{\textsf{abby}}$ $\small\textcolor{pink}{\textsf{or taffy}}$ 
+$\small\textcolor{#CA4363}{\textsf{ abby}}$ $\small\textcolor{#D1AC80}{\textsf{or taffy⁠ }}$ 
 <p align="center">
 <img height="100" width="50" src= "https://files.catbox.moe/kjz6zc.png"> 
-wip!!! 
+ 
 
    [![978-sin-titulo-20251220194829.png](https://i.postimg.cc/zf04Tn0n/978-sin-titulo-20251220194829.png)](https://postimg.cc/t1nrjV0T)
 
